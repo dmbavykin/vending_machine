@@ -1,0 +1,17 @@
+en:
+  hello: Hello world
+  buy?: Do u wanna buy something?
+  see_you: Maybe next time, see ya
+  choose: Choose product
+  wrong_product: Such product does not exist
+  put_or_buy: Do u wanna (put) a coin or (buy) a product?
+  put_coin: Enter a coin amount. Valid coins are %{coins}
+  invalid_coin: Use only valid coins
+  out_of_stock: Product is out of stock
+  not_enough_balance: Not enough balance! Put more coins
+  not_enough_change: Not enough coins for giving a full change! Inserted coins will be returned
+  unknown_product: Unknown product
+  product_is_bought: You have succesfully bought %{product}
+  your_change: Your change is %{change}
+  take_your_money_back: Refunded coins are %{refund}
+  your_balance: Your current balance is %{balance}

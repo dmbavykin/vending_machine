@@ -1,0 +1,37 @@
+{
+  "products": {
+    "1": {
+      "name": "Coca Cola",
+      "price": 2.0,
+      "quantity": 2
+    },
+    "2": {
+      "name": "Sprite",
+      "price": 2.5,
+      "quantity": 2
+    },
+    "3": {
+      "name": "Fanta",
+      "price": 2.7,
+      "quantity": 3
+    },
+    "4": {
+      "name": "Orange Juice",
+      "price": 3.0,
+      "quantity": 1
+    },
+    "5": {
+      "name": "Water",
+      "price": 3.25,
+      "quantity": 0
+    }
+  },
+  "coins": {
+    "5.0": 5,
+    "3.0": 5,
+    "2.0": 5,
+    "1.0": 5,
+    "0.5": 5,
+    "0.25": 5
+  }
+}
